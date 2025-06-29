@@ -5,6 +5,7 @@ import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.preprocessing import LabelEncoder
 
+
 def test_model_prediction():
     # Load model and encoder
     model = joblib.load("models/model.joblib")
