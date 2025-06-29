@@ -3,5 +3,6 @@ joblib
 matplotlib
 pytest
 black
-flake8
+
+
 pandas
